@@ -1,0 +1,1 @@
+Attempt at building a CLI in Rust per Chapter 12 of the book.
